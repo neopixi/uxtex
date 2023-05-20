@@ -16,5 +16,16 @@
             [25, 40],
             [60, 40]
         ]
-    }
+    },
+    "WARMR-4A": {
+        "temperatureRange": [30, 55],
+        "image": "https://neopixi.github.io/uxtex/images/warmr_4a.png",
+        "zones": [
+            [25, 60],
+            [60, 60],
+            [25, 25],
+            [60, 25]          
+        ]
+    },
+
 }
