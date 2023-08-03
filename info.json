@@ -1,7 +1,7 @@
 {
     "WARMR-4B": {
         "temperatureRange": [30, 55],
-        "image": "https://neopixi.github.io/uxtex/images/warmr_4b.png",
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%20png.png",
         "zones": [
             [25, 60],
             [60, 60],
@@ -11,7 +11,7 @@
     },
     "WARMR-2Y": {
         "temperatureRange": [30, 55],
-        "image": "https://neopixi.github.io/uxtex/images/warmr_2y.png",
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%20png.png",
         "zones": [
             [25, 40],
             [60, 40]
@@ -19,7 +19,7 @@
     },
     "WARMR-4A": {
         "temperatureRange": [30, 55],
-        "image": "https://neopixi.github.io/uxtex/images/warmr_4a.png",
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81%20png.png",
         "zones": [
             [25, 60],
             [60, 60],
