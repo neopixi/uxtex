@@ -26,5 +26,22 @@
             [25, 25],
             [60, 25]          
         ]
-    }
+    },
+    "WARMR-1C": {
+        "temperatureRange": [30, 55],
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/sumka.png?raw=true",
+        "zones": [
+            [50, 50],
+        ]
+    },
+    "WARMR-2C": {
+        "temperatureRange": [30, 55],
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/sumka.png?raw=true",
+        "zones": [
+            [25, 60],
+            [60, 60],
+        ]
+    },
+    
+
 }
