@@ -38,7 +38,7 @@
         "temperatureRange": [30, 55],
         "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/warmr_2y.png?raw=true",
         "zones": [
-            [30, 30]
+            [25, 25]
         ]
     },
     "WARMR-2C": {
