@@ -34,6 +34,13 @@
             [50, 50]
         ]
     },
+    "WARMR-1H": {
+        "temperatureRange": [30, 55],
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/warmr_2y.png?raw=true",
+        "zones": [
+            [150, 150]
+        ]
+    },
     "WARMR-2C": {
         "temperatureRange": [30, 55],
         "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/sumka.jpg?raw=true",
