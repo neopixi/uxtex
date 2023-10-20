@@ -46,8 +46,8 @@
         "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/warmr_3a.png?raw=true",
         "zones": [
             [40, 50],
-            [10, 40],
-            [70, 40]
+            [15, 35],
+            [65, 35]
         ]
     },
     "WARMR-2C": {
