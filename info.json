@@ -50,6 +50,16 @@
             [65, 35]
         ]
     },
+    "Bomber-3Z": {
+        "temperatureRange": [30, 55],
+        "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/bomber.png?raw=true",
+        "zones": [
+            [40, 50],
+            [15, 35],
+            [65, 35]
+        ]
+    },
+
     "WARMR-2C": {
         "temperatureRange": [30, 55],
         "image": "https://github.com/neopixi/uxtex/blob/gh-pages/images/sumka.jpg?raw=true",
